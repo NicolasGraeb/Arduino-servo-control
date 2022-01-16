@@ -1,4 +1,4 @@
-# Arduino-guides
+# Arduino-servo-control
 
 In this guide we will learn how to control servo motor with potentiometer on Arduino.
 
